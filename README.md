@@ -1,2 +1,3 @@
 # student-demo
-this is my first Repository in demo.
+this is my first git Repository in demo.
+Author - paresh bavliya
